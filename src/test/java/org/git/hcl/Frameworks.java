@@ -6,7 +6,11 @@ public class Frameworks {
 		
 		System.out.println(" First framework is Data Driven");
 		System.out.println(" Second framework is POM");
+		System.out.println(" Thired framework is JUnit");
 		System.out.println(" fourth framework is GIT");
+
+		
+
 		
 	}
 }
